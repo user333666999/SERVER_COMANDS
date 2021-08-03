@@ -1,12 +1,9 @@
 {
-  "games": [
+  "commands": [
   
     {
-      "name": "Another World",
-      "genre": "Adventure",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/VgD5VexJhqhVdT2l1ZFh9SjZmnCPZjiWhrV9H0S20w5rlcQ8BglJTXHLGj9b7IFPOw=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
+      "access": "Another World",
+      "restart": "Adventure"
     }
   ]
 }
