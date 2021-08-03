@@ -2,8 +2,8 @@
   "commands": [
   
     {
-      "access": "Another World",
-      "restart": "Adventure"
+      "access": "true",
+      "restart": " "
     }
   ]
 }
