@@ -2,8 +2,8 @@
   "commands": [
   
     {
-      "access": "true",
-      "restart": ""
+      "access": "tre",
+      "restart": "true"
     }
   ]
 }
