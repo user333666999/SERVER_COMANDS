@@ -2,7 +2,7 @@
   "commands": [
   
     {
-      "access": "tr",
+      "access": "true",
       "restart": "true"
     }
   ]
